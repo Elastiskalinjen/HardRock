@@ -1,1 +1,10 @@
 c:\users\spellabbet\documents\visual studio 2013\Projects\HardRock\HardRock\bin\Debug\HardRock.exe.config
+C:\Users\Spellabbet\Documents\GitHub\HardRock\HardRock\HardRock\bin\Debug\HardRock.exe.config
+C:\Users\Spellabbet\Documents\GitHub\HardRock\HardRock\HardRock\bin\Debug\HardRock.exe
+C:\Users\Spellabbet\Documents\GitHub\HardRock\HardRock\HardRock\bin\Debug\HardRock.pdb
+C:\Users\Spellabbet\Documents\GitHub\HardRock\HardRock\HardRock\obj\Debug\HardRock.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Documents\GitHub\HardRock\HardRock\HardRock\obj\Debug\HardRock.Form1.resources
+C:\Users\Spellabbet\Documents\GitHub\HardRock\HardRock\HardRock\obj\Debug\HardRock.Properties.Resources.resources
+C:\Users\Spellabbet\Documents\GitHub\HardRock\HardRock\HardRock\obj\Debug\HardRock.csproj.GenerateResource.Cache
+C:\Users\Spellabbet\Documents\GitHub\HardRock\HardRock\HardRock\obj\Debug\HardRock.exe
+C:\Users\Spellabbet\Documents\GitHub\HardRock\HardRock\HardRock\obj\Debug\HardRock.pdb
