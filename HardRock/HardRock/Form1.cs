@@ -16,7 +16,7 @@ namespace HardRock
         public Form1()
         {
             InitializeComponent();
-            this.db = new DBManager();
+            this.db = new DBManager(null);
 
             //var table = db.GetBandInfo();
 
@@ -58,22 +58,32 @@ namespace HardRock
 
         public void Setband()
         {
-            db.InsertBand(int.Parse(textBox1.Text), textBox2.Text, textBox3.Text, int.Parse(textBox4.Text), textBox5.Text);
+            db.InsertBand(textBox2.Text, textBox3.Text, int.Parse(textBox4.Text), textBox5.Text);
         }
 
         public void SetKonsert()
         {
-          db.InsertSpelning(int.Parse(textBox10.Text), textBox9.Text, textBox8.Text, int.Parse(textBox7.Text), int.Parse(textBox6.Text));
+          db.InsertSpelning(textBox10.Text, textBox9.Text, textBox8.Text, int.Parse(textBox7.Text), int.Parse(textBox6.Text));
         }
 
         public void SetAnstalld()
         {
-           db.InsertAnstalld(int.Parse(textBox13.Text), textBox12.Text, int.Parse(textBox11.Text));
+           db.InsertAnstalld(textBox12.Text, int.Parse(textBox11.Text));
         }
 
         public void SetTelefonNr()
         {
             db.InsertTelefonNr(textBox14.Text, int.Parse(textBox15.Text));
+        }
+
+        public void textBox10_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
         }
 
 
